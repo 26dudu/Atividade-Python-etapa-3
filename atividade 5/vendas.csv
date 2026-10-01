@@ -1,0 +1,401 @@
+data,loja,produto,quantidade,preco_unitario,categoria,regiao
+2025-07-16,Loja Salvador,Mesa,4.0,742.11,Móveis,Nordeste
+2025-12-17,Loja Brasília,Webcam,4.0,256.49,Eletrônicos,Centro-Oeste
+2025-05-13,Loja Curitiba,Teclado,5.0,141.49,Acessórios,Sul
+2025-12-24,Loja Brasília,Headset,8.0,220.8,Acessórios,Centro-Oeste
+2025-09-16,Loja Brasília,Notebook,5.0,3568.09,Eletrônicos,Centro-Oeste
+2025-01-23,Loja São Paulo,Teclado,8.0,150.75,Acessórios,Sudeste
+2025-02-22,Loja Curitiba,Headset,10.0,209.45,Acessórios,Sul
+2025-06-14,Loja Curitiba,Mouse,1.0,80.24,Acessórios,Sul
+2025-07-21,Loja Curitiba,Teclado,,149.74,Acessórios,Sul
+2025-03-24,Loja Brasília,Cadeira,9.0,1319.12,Móveis,Centro-Oeste
+2025-05-25,Loja Salvador,Notebook,6.0,3778.21,Eletrônicos,Nordeste
+2025-03-26,Loja Curitiba,Headset,3.0,218.39,Acessórios,Sul
+2025-03-19,Loja Brasília,Headset,8.0,225.41,Acessórios,Centro-Oeste
+2025-01-01,Loja São Paulo,Headset,9.0,230.91,Acessórios,Sudeste
+2025-02-20,Loja Salvador,Mouse,6.0,72.56,Acessórios,Nordeste
+2025-06-22,Loja São Paulo,Teclado,7.0,161.85,Acessórios,Sudeste
+2025-07-24,Loja Salvador,Mouse,1.0,85.76,Acessórios,Nordeste
+2025-09-17,Loja Brasília,Mesa,5.0,694.04,Móveis,Centro-Oeste
+2025-10-15,Loja BH,Monitor,5.0,880.41,Eletrônicos,Sudeste
+2025-02-03,Loja Salvador,Monitor,10.0,859.13,Eletrônicos,Nordeste
+2025-12-14,Loja São Paulo,Mesa,4.0,696.73,Móveis,Sudeste
+2025-04-05,Loja Brasília,Teclado,6.0,,Acessórios,Centro-Oeste
+2025-03-13,Loja Salvador,Cadeira,7.0,1284.53,Móveis,Nordeste
+2025-02-08,Loja BH,Mouse,9.0,72.57,Acessórios,Sudeste
+2025-06-03,Loja BH,Notebook,1.0,3380.34,Eletrônicos,Sudeste
+2025-09-07,Loja Curitiba,Headset,6.0,238.99,Acessórios,Sul
+2025-06-11,Loja Curitiba,Headset,7.0,230.35,Acessórios,Sul
+2025-04-28,Loja São Paulo,Teclado,3.0,143.44,Acessórios,Sudeste
+2025-09-16,Loja Salvador,Cadeira,8.0,1140.64,Móveis,Nordeste
+2025-11-02,Loja Salvador,Monitor,5.0,810.91,Eletrônicos,Nordeste
+2025-09-25,Loja Curitiba,Monitor,9.0,935.23,Eletrônicos,Sul
+2025-02-23,Loja Salvador,Headset,5.0,200.15,Acessórios,Nordeste
+2025-08-24,Loja Salvador,Teclado,9.0,150.98,Acessórios,Nordeste
+2025-08-10,Loja BH,Mouse,10.0,87.39,Acessórios,Sudeste
+2025-09-08,Loja Curitiba,Monitor,4.0,829.7,Eletrônicos,Sul
+2025-11-09,Loja Brasília,Mouse,9.0,86.31,Acessórios,Centro-Oeste
+2025-04-22,Loja Curitiba,Cadeira,5.0,1317.95,Móveis,Sul
+2025-09-12,Loja Brasília,Monitor,10.0,821.07,Eletrônicos,Centro-Oeste
+2025-10-30,Loja BH,Monitor,9.0,968.92,Eletrônicos,Sudeste
+2025-07-26,Loja São Paulo,Webcam,,250.8,Eletrônicos,Sudeste
+2025-08-17,Loja Salvador,Monitor,4.0,,Eletrônicos,Nordeste
+2025-12-07,Loja BH,Mesa,9.0,709.98,Móveis,Sudeste
+2025-03-07,Loja Salvador,Notebook,10.0,3613.48,Eletrônicos,Nordeste
+2025-03-16,Loja São Paulo,Mesa,6.0,706.13,Móveis,Sudeste
+2025-04-13,Loja São Paulo,Teclado,2.0,160.93,Acessórios,Sudeste
+2025-07-11,Loja BH,Teclado,7.0,157.02,Acessórios,Sudeste
+2025-09-09,Loja São Paulo,Mouse,2.0,80.34,Acessórios,Sudeste
+2025-08-14,Loja Brasília,Mesa,2.0,,Móveis,Centro-Oeste
+2025-10-21,Loja São Paulo,Mesa,1.0,664.34,Móveis,Sudeste
+2025-11-02,Loja Salvador,Mesa,3.0,652.03,Móveis,Nordeste
+2025-04-08,Loja Salvador,Cadeira,6.0,1118.5,Móveis,Nordeste
+2025-12-04,Loja Salvador,Monitor,8.0,870.12,Eletrônicos,Nordeste
+2025-10-13,Loja Salvador,Notebook,9.0,3317.08,Eletrônicos,Nordeste
+2025-12-01,Loja Brasília,Mouse,7.0,86.88,Acessórios,Centro-Oeste
+2025-12-13,Loja Curitiba,Mesa,4.0,644.82,Móveis,Sul
+2025-11-04,Loja BH,Mesa,6.0,727.86,Móveis,Sudeste
+2025-09-06,Loja Salvador,Webcam,5.0,234.46,Eletrônicos,Nordeste
+2025-06-15,Loja São Paulo,Mouse,8.0,86.11,Acessórios,Sudeste
+2025-12-01,Loja Salvador,Mesa,1.0,,Móveis,Nordeste
+2025-01-30,Loja São Paulo,Mouse,1.0,79.45,Acessórios,Sudeste
+2025-09-04,Loja São Paulo,Monitor,6.0,968.23,Eletrônicos,Sudeste
+2025-04-16,Loja Salvador,Webcam,10.0,225.26,Eletrônicos,Nordeste
+2025-02-20,Loja Brasília,Mouse,2.0,85.12,Acessórios,Centro-Oeste
+2025-03-22,Loja São Paulo,Notebook,5.0,3310.04,Eletrônicos,Sudeste
+2025-05-13,Loja São Paulo,Notebook,1.0,3786.09,Eletrônicos,Sudeste
+2025-10-12,Loja Salvador,Teclado,7.0,135.03,Acessórios,Nordeste
+2025-05-18,Loja São Paulo,Webcam,1.0,252.81,Eletrônicos,Sudeste
+2025-07-03,Loja São Paulo,Webcam,4.0,262.83,Eletrônicos,Sudeste
+2025-11-26,Loja Salvador,Teclado,9.0,142.76,Acessórios,Nordeste
+2025-09-30,Loja Salvador,Mouse,1.0,75.09,Acessórios,Nordeste
+2025-12-06,Loja BH,Webcam,4.0,229.2,Eletrônicos,Sudeste
+2025-03-10,Loja Brasília,Notebook,6.0,3378.5,Eletrônicos,Centro-Oeste
+2025-02-03,Loja Brasília,Notebook,6.0,3541.89,Eletrônicos,Centro-Oeste
+2025-09-19,Loja São Paulo,Mesa,8.0,646.22,Móveis,Sudeste
+2025-02-22,Loja Brasília,Monitor,1.0,877.81,Eletrônicos,Centro-Oeste
+2025-07-24,Loja São Paulo,Webcam,7.0,225.45,Eletrônicos,Sudeste
+2025-05-06,Loja BH,Mouse,1.0,85.1,Acessórios,Sudeste
+2025-08-23,Loja Salvador,Teclado,7.0,138.85,Acessórios,Nordeste
+2025-02-12,Loja Salvador,Teclado,3.0,143.5,Acessórios,Nordeste
+2025-08-28,Loja Salvador,Mouse,8.0,72.29,Acessórios,Nordeste
+2025-04-21,Loja Brasília,Cadeira,3.0,1183.74,Móveis,Centro-Oeste
+2025-09-06,Loja BH,Headset,1.0,234.97,Acessórios,Sudeste
+2025-05-31,Loja Brasília,Monitor,,880.59,Eletrônicos,Centro-Oeste
+2025-07-02,Loja Brasília,Teclado,3.0,140.38,Acessórios,Centro-Oeste
+2025-12-02,Loja BH,Webcam,2.0,262.68,Eletrônicos,Sudeste
+2025-04-05,Loja BH,Monitor,1.0,951.99,Eletrônicos,Sudeste
+2025-01-08,Loja BH,Webcam,3.0,233.69,Eletrônicos,Sudeste
+2025-12-26,Loja BH,Cadeira,2.0,1265.0,Móveis,Sudeste
+2025-07-03,Loja Salvador,Notebook,2.0,3813.11,Eletrônicos,Nordeste
+2025-10-08,Loja Curitiba,Monitor,6.0,839.95,Eletrônicos,Sul
+2025-07-14,Loja Curitiba,Mesa,1.0,737.94,Móveis,Sul
+2025-12-18,Loja BH,Teclado,2.0,156.26,Acessórios,Sudeste
+2025-07-14,Loja Curitiba,Monitor,6.0,895.24,Eletrônicos,Sul
+2025-06-04,Loja Curitiba,Monitor,3.0,820.43,Eletrônicos,Sul
+2025-04-03,Loja BH,Monitor,4.0,823.44,Eletrônicos,Sudeste
+2025-06-09,Loja Curitiba,Headset,1.0,235.51,Acessórios,Sul
+2025-03-02,Loja Brasília,Monitor,8.0,988.23,Eletrônicos,Centro-Oeste
+2025-05-02,Loja São Paulo,Webcam,7.0,258.8,Eletrônicos,Sudeste
+2025-02-20,Loja São Paulo,Notebook,7.0,3462.17,Eletrônicos,Sudeste
+2025-10-04,Loja BH,Cadeira,3.0,1235.42,Móveis,Sudeste
+2025-01-05,Loja Salvador,Mouse,10.0,81.51,Acessórios,Nordeste
+2025-04-02,Loja BH,Monitor,10.0,879.05,Eletrônicos,Sudeste
+2025-06-19,Loja Salvador,Teclado,3.0,136.97,Acessórios,Nordeste
+2025-11-13,Loja São Paulo,Monitor,2.0,957.87,Eletrônicos,Sudeste
+2025-01-22,Loja BH,Teclado,1.0,146.16,Acessórios,Sudeste
+2025-11-22,Loja Brasília,Webcam,7.0,265.94,Eletrônicos,Centro-Oeste
+2025-01-01,Loja Curitiba,Teclado,7.0,142.58,Acessórios,Sul
+2025-05-13,Loja Salvador,Mesa,2.0,630.14,Móveis,Nordeste
+2025-08-21,Loja Curitiba,Mouse,7.0,74.54,Acessórios,Sul
+2025-01-12,Loja Curitiba,Notebook,8.0,3477.98,Eletrônicos,Sul
+2025-12-12,Loja BH,Teclado,1.0,163.33,Acessórios,Sudeste
+2025-02-15,Loja Curitiba,Teclado,9.0,138.07,Acessórios,Sul
+2025-02-03,Loja Brasília,Notebook,7.0,3747.95,Eletrônicos,Centro-Oeste
+2025-03-19,Loja Curitiba,Mouse,3.0,80.43,Acessórios,Sul
+2025-08-06,Loja BH,Monitor,,958.67,Eletrônicos,Sudeste
+2025-10-28,Loja Brasília,Teclado,7.0,143.95,Acessórios,Centro-Oeste
+2025-03-14,Loja São Paulo,Notebook,8.0,3737.96,Eletrônicos,Sudeste
+2025-10-09,Loja Curitiba,Mesa,6.0,738.2,Móveis,Sul
+2025-09-06,Loja BH,Mesa,9.0,662.21,Móveis,Sudeste
+2025-02-16,Loja São Paulo,Webcam,5.0,231.57,Eletrônicos,Sudeste
+2025-05-01,Loja São Paulo,Notebook,3.0,3757.64,Eletrônicos,Sudeste
+2025-08-02,Loja Salvador,Webcam,3.0,,Eletrônicos,Nordeste
+2025-08-27,Loja Brasília,Mesa,1.0,634.38,Móveis,Centro-Oeste
+2025-02-25,Loja Curitiba,Mouse,8.0,83.7,Acessórios,Sul
+2025-12-16,Loja BH,Monitor,2.0,973.71,Eletrônicos,Sudeste
+2025-04-17,Loja Salvador,Notebook,3.0,,Eletrônicos,Nordeste
+2025-11-15,Loja Brasília,Cadeira,8.0,1311.48,Móveis,Centro-Oeste
+2025-02-17,Loja Salvador,Mesa,8.0,736.41,Móveis,Nordeste
+2025-03-02,Loja Brasília,Mesa,4.0,691.92,Móveis,Centro-Oeste
+2025-12-03,Loja Brasília,Cadeira,4.0,1154.87,Móveis,Centro-Oeste
+2025-01-26,Loja Curitiba,Headset,5.0,212.11,Acessórios,Sul
+2025-10-19,Loja Brasília,Mesa,6.0,731.42,Móveis,Centro-Oeste
+2025-09-14,Loja Salvador,Teclado,5.0,157.38,Acessórios,Nordeste
+2025-01-08,Loja Brasília,Mouse,7.0,75.21,Acessórios,Centro-Oeste
+2025-04-23,Loja Curitiba,Notebook,2.0,3757.69,Eletrônicos,Sul
+2025-12-21,Loja Curitiba,Cadeira,7.0,1251.58,Móveis,Sul
+2025-09-10,Loja Salvador,Teclado,10.0,151.88,Acessórios,Nordeste
+2025-06-29,Loja São Paulo,Cadeira,7.0,1193.17,Móveis,Sudeste
+2025-07-26,Loja São Paulo,Notebook,1.0,3530.26,Eletrônicos,Sudeste
+2025-10-30,Loja Brasília,Webcam,7.0,232.96,Eletrônicos,Centro-Oeste
+2025-05-07,Loja BH,Notebook,5.0,3292.59,Eletrônicos,Sudeste
+2025-02-25,Loja Brasília,Headset,3.0,202.01,Acessórios,Centro-Oeste
+2025-08-02,Loja Salvador,Notebook,3.0,3257.56,Eletrônicos,Nordeste
+2025-01-14,Loja Salvador,Notebook,4.0,3467.59,Eletrônicos,Nordeste
+2025-01-28,Loja Salvador,Headset,2.0,221.34,Acessórios,Nordeste
+2025-03-19,Loja Salvador,Mouse,2.0,72.29,Acessórios,Nordeste
+2025-08-04,Loja Salvador,Mesa,1.0,741.55,Móveis,Nordeste
+2025-12-31,Loja Curitiba,Notebook,5.0,3355.92,Eletrônicos,Sul
+2025-06-03,Loja São Paulo,Headset,4.0,238.12,Acessórios,Sudeste
+2025-01-14,Loja Salvador,Teclado,10.0,164.03,Acessórios,Nordeste
+2025-07-06,Loja BH,Webcam,2.0,234.27,Eletrônicos,Sudeste
+2025-11-08,Loja BH,Webcam,3.0,248.1,Eletrônicos,Sudeste
+2025-01-07,Loja BH,Notebook,7.0,3150.86,Eletrônicos,Sudeste
+2025-01-03,Loja BH,Mouse,7.0,81.57,Acessórios,Sudeste
+2025-04-21,Loja Curitiba,Mouse,4.0,81.72,Acessórios,Sul
+2025-08-26,Loja BH,Teclado,5.0,142.43,Acessórios,Sudeste
+2025-12-29,Loja Salvador,Notebook,5.0,3540.89,Eletrônicos,Nordeste
+2025-08-27,Loja Brasília,Webcam,6.0,236.28,Eletrônicos,Centro-Oeste
+2025-10-01,Loja BH,Mouse,9.0,74.57,Acessórios,Sudeste
+2025-10-21,Loja Curitiba,Notebook,2.0,3606.06,Eletrônicos,Sul
+2025-08-15,Loja Curitiba,Cadeira,5.0,1158.22,Móveis,Sul
+2025-01-15,Loja BH,Mouse,3.0,81.44,Acessórios,Sudeste
+2025-07-11,Loja Brasília,Headset,4.0,217.06,Acessórios,Centro-Oeste
+2025-04-29,Loja BH,Cadeira,10.0,1316.24,Móveis,Sudeste
+2025-01-28,Loja Curitiba,Mesa,6.0,650.94,Móveis,Sul
+2025-07-21,Loja São Paulo,Mouse,,79.43,Acessórios,Sudeste
+2025-02-08,Loja Salvador,Webcam,1.0,259.02,Eletrônicos,Nordeste
+2025-09-30,Loja Curitiba,Monitor,10.0,881.2,Eletrônicos,Sul
+2025-08-19,Loja BH,Cadeira,8.0,1313.93,Móveis,Sudeste
+2025-03-27,Loja Salvador,Mesa,7.0,731.06,Móveis,Nordeste
+2025-05-06,Loja BH,Teclado,1.0,154.71,Acessórios,Sudeste
+2025-10-27,Loja BH,Teclado,2.0,157.71,Acessórios,Sudeste
+2025-01-25,Loja São Paulo,Webcam,3.0,272.63,Eletrônicos,Sudeste
+2025-05-25,Loja Salvador,Mouse,1.0,86.53,Acessórios,Nordeste
+2025-01-13,Loja Salvador,Notebook,9.0,3657.0,Eletrônicos,Nordeste
+2025-07-31,Loja São Paulo,Mouse,8.0,83.99,Acessórios,Sudeste
+2025-01-25,Loja Curitiba,Webcam,2.0,232.3,Eletrônicos,Sul
+2025-03-09,Loja BH,Teclado,9.0,138.08,Acessórios,Sudeste
+2025-03-08,Loja Brasília,Mouse,7.0,81.13,Acessórios,Centro-Oeste
+2025-08-21,Loja BH,Teclado,9.0,135.55,Acessórios,Sudeste
+2025-04-19,Loja BH,Cadeira,6.0,1195.77,Móveis,Sudeste
+2025-05-26,Loja Curitiba,Mesa,6.0,659.45,Móveis,Sul
+2025-04-21,Loja BH,Notebook,4.0,3392.21,Eletrônicos,Sudeste
+2025-08-16,Loja São Paulo,Cadeira,10.0,1266.19,Móveis,Sudeste
+2025-04-21,Loja São Paulo,Teclado,10.0,163.24,Acessórios,Sudeste
+2025-02-03,Loja Salvador,Teclado,2.0,137.17,Acessórios,Nordeste
+2025-04-21,Loja Brasília,Monitor,7.0,906.16,Eletrônicos,Centro-Oeste
+2025-09-21,Loja BH,Monitor,5.0,968.86,Eletrônicos,Sudeste
+2025-08-24,Loja BH,Cadeira,6.0,1099.8,Móveis,Sudeste
+2025-03-24,Loja Curitiba,Headset,2.0,234.28,Acessórios,Sul
+2025-02-11,Loja São Paulo,Cadeira,5.0,1165.87,Móveis,Sudeste
+2025-04-11,Loja Brasília,Monitor,10.0,867.98,Eletrônicos,Centro-Oeste
+2025-01-06,Loja Salvador,Teclado,4.0,164.32,Acessórios,Nordeste
+2025-06-29,Loja São Paulo,Webcam,9.0,235.04,Eletrônicos,Sudeste
+2025-10-09,Loja Salvador,Cadeira,6.0,,Móveis,Nordeste
+2025-11-16,Loja Curitiba,Teclado,2.0,159.64,Acessórios,Sul
+2025-08-14,Loja Curitiba,Webcam,1.0,227.06,Eletrônicos,Sul
+2025-11-11,Loja BH,Webcam,,258.52,Eletrônicos,Sudeste
+2025-12-31,Loja Brasília,Monitor,9.0,981.28,Eletrônicos,Centro-Oeste
+2025-08-17,Loja Salvador,Cadeira,6.0,1109.81,Móveis,Nordeste
+2025-10-16,Loja São Paulo,Mouse,10.0,86.34,Acessórios,Sudeste
+2025-05-30,Loja Curitiba,Notebook,7.0,3566.34,Eletrônicos,Sul
+2025-10-04,Loja BH,Monitor,5.0,920.99,Eletrônicos,Sudeste
+2025-07-17,Loja BH,Monitor,10.0,920.33,Eletrônicos,Sudeste
+2025-03-11,Loja Salvador,Mouse,6.0,76.78,Acessórios,Nordeste
+2025-04-22,Loja Curitiba,Notebook,5.0,3804.64,Eletrônicos,Sul
+2025-01-04,Loja Brasília,Teclado,9.0,163.42,Acessórios,Centro-Oeste
+2025-12-16,Loja Curitiba,Headset,6.0,225.51,Acessórios,Sul
+2025-11-27,Loja Salvador,Cadeira,8.0,1268.02,Móveis,Nordeste
+2025-11-14,Loja Salvador,Headset,2.0,,Acessórios,Nordeste
+2025-12-16,Loja Curitiba,Teclado,9.0,,Acessórios,Sul
+2025-04-05,Loja Salvador,Mesa,5.0,722.51,Móveis,Nordeste
+2025-06-01,Loja Curitiba,Monitor,7.0,909.54,Eletrônicos,Sul
+2025-11-07,Loja São Paulo,Notebook,,3568.23,Eletrônicos,Sudeste
+2025-05-17,Loja Curitiba,Monitor,1.0,951.09,Eletrônicos,Sul
+2025-09-04,Loja Curitiba,Webcam,10.0,249.05,Eletrônicos,Sul
+2025-08-31,Loja Salvador,Monitor,5.0,817.34,Eletrônicos,Nordeste
+2025-01-31,Loja Salvador,Monitor,10.0,839.52,Eletrônicos,Nordeste
+2025-02-09,Loja BH,Teclado,2.0,148.16,Acessórios,Sudeste
+2025-08-17,Loja BH,Teclado,6.0,156.74,Acessórios,Sudeste
+2025-02-05,Loja São Paulo,Teclado,1.0,152.8,Acessórios,Sudeste
+2025-08-11,Loja BH,Headset,3.0,226.61,Acessórios,Sudeste
+2025-01-06,Loja Curitiba,Webcam,5.0,248.96,Eletrônicos,Sul
+2025-11-18,Loja Salvador,Mesa,4.0,716.2,Móveis,Nordeste
+2025-08-08,Loja BH,Mesa,3.0,676.06,Móveis,Sudeste
+2025-03-16,Loja BH,Teclado,10.0,149.11,Acessórios,Sudeste
+2025-01-04,Loja São Paulo,Notebook,5.0,3671.0,Eletrônicos,Sudeste
+2025-12-01,Loja São Paulo,Headset,8.0,236.36,Acessórios,Sudeste
+2025-05-14,Loja Curitiba,Mouse,4.0,78.94,Acessórios,Sul
+2025-04-28,Loja Salvador,Notebook,1.0,3180.56,Eletrônicos,Nordeste
+2025-04-04,Loja São Paulo,Cadeira,7.0,1118.8,Móveis,Sudeste
+2025-03-03,Loja BH,Cadeira,8.0,1085.01,Móveis,Sudeste
+2025-07-13,Loja Salvador,Notebook,3.0,3607.28,Eletrônicos,Nordeste
+2025-12-01,Loja Salvador,Teclado,6.0,144.97,Acessórios,Nordeste
+2025-07-22,Loja BH,Mouse,2.0,80.68,Acessórios,Sudeste
+2025-01-26,Loja São Paulo,Mouse,7.0,79.89,Acessórios,Sudeste
+2025-06-22,Loja BH,Headset,8.0,201.59,Acessórios,Sudeste
+2025-10-27,Loja Salvador,Mouse,6.0,78.45,Acessórios,Nordeste
+2025-05-13,Loja Brasília,Cadeira,6.0,1132.93,Móveis,Centro-Oeste
+2025-11-22,Loja Brasília,Webcam,5.0,245.92,Eletrônicos,Centro-Oeste
+2025-04-28,Loja Curitiba,Teclado,8.0,141.11,Acessórios,Sul
+2025-11-20,Loja BH,Mouse,1.0,85.45,Acessórios,Sudeste
+2025-10-02,Loja BH,Headset,10.0,205.66,Acessórios,Sudeste
+2025-07-31,Loja Curitiba,Cadeira,4.0,1310.59,Móveis,Sul
+2025-08-13,Loja Curitiba,Webcam,4.0,245.8,Eletrônicos,Sul
+2025-01-20,Loja Curitiba,Monitor,3.0,962.32,Eletrônicos,Sul
+2025-04-23,Loja Salvador,Monitor,3.0,923.18,Eletrônicos,Nordeste
+2025-05-20,Loja BH,Webcam,4.0,261.77,Eletrônicos,Sudeste
+2025-02-16,Loja Salvador,Cadeira,1.0,1264.25,Móveis,Nordeste
+2025-01-01,Loja Curitiba,Headset,2.0,220.21,Acessórios,Sul
+2025-03-31,Loja BH,Webcam,9.0,252.17,Eletrônicos,Sudeste
+2025-05-22,Loja Salvador,Teclado,10.0,150.42,Acessórios,Nordeste
+2025-11-16,Loja Salvador,Teclado,2.0,152.64,Acessórios,Nordeste
+2025-02-07,Loja Curitiba,Monitor,5.0,815.29,Eletrônicos,Sul
+2025-10-20,Loja BH,Mouse,9.0,78.33,Acessórios,Sudeste
+2025-05-19,Loja Curitiba,Headset,9.0,224.67,Acessórios,Sul
+2025-12-22,Loja BH,Monitor,8.0,917.59,Eletrônicos,Sudeste
+2025-11-29,Loja Brasília,Mouse,1.0,84.69,Acessórios,Centro-Oeste
+2025-09-16,Loja São Paulo,Mouse,1.0,82.48,Acessórios,Sudeste
+2025-06-10,Loja São Paulo,Mesa,9.0,768.9,Móveis,Sudeste
+2025-06-27,Loja São Paulo,Teclado,8.0,143.52,Acessórios,Sudeste
+2025-01-10,Loja Curitiba,Cadeira,10.0,1166.2,Móveis,Sul
+2025-09-18,Loja Brasília,Notebook,9.0,3418.69,Eletrônicos,Centro-Oeste
+2025-05-18,Loja BH,Cadeira,7.0,1191.8,Móveis,Sudeste
+2025-06-21,Loja Salvador,Notebook,3.0,3735.2,Eletrônicos,Nordeste
+2025-01-13,Loja BH,Webcam,3.0,236.79,Eletrônicos,Sudeste
+2025-06-17,Loja Salvador,Teclado,2.0,158.28,Acessórios,Nordeste
+2025-05-10,Loja BH,Mouse,5.0,78.48,Acessórios,Sudeste
+2025-03-25,Loja Brasília,Headset,3.0,224.48,Acessórios,Centro-Oeste
+2025-11-17,Loja Salvador,Notebook,6.0,3592.78,Eletrônicos,Nordeste
+2025-11-15,Loja Curitiba,Cadeira,2.0,1169.48,Móveis,Sul
+2025-04-11,Loja BH,Mouse,3.0,80.2,Acessórios,Sudeste
+2025-11-25,Loja BH,Notebook,5.0,3439.12,Eletrônicos,Sudeste
+2025-09-30,Loja Salvador,Notebook,1.0,3198.39,Eletrônicos,Nordeste
+2025-09-22,Loja Curitiba,Mesa,1.0,691.2,Móveis,Sul
+2025-02-07,Loja Curitiba,Notebook,10.0,3218.18,Eletrônicos,Sul
+2025-04-04,Loja Brasília,Headset,9.0,215.82,Acessórios,Centro-Oeste
+2025-04-05,Loja Curitiba,Teclado,7.0,152.79,Acessórios,Sul
+2025-11-01,Loja Curitiba,Headset,1.0,223.49,Acessórios,Sul
+2025-03-10,Loja Curitiba,Monitor,8.0,929.27,Eletrônicos,Sul
+2025-11-14,Loja São Paulo,Mouse,3.0,73.52,Acessórios,Sudeste
+2025-08-24,Loja Brasília,Teclado,8.0,154.56,Acessórios,Centro-Oeste
+2025-11-30,Loja BH,Mesa,5.0,673.7,Móveis,Sudeste
+2025-05-17,Loja Salvador,Teclado,1.0,146.97,Acessórios,Nordeste
+2025-03-17,Loja BH,Teclado,7.0,160.74,Acessórios,Sudeste
+2025-02-04,Loja Brasília,Cadeira,5.0,1082.17,Móveis,Centro-Oeste
+2025-01-01,Loja Salvador,Teclado,6.0,152.65,Acessórios,Nordeste
+2025-10-23,Loja Brasília,Mesa,6.0,713.82,Móveis,Centro-Oeste
+2025-11-16,Loja Curitiba,Headset,8.0,215.45,Acessórios,Sul
+2025-03-01,Loja Salvador,Teclado,,142.11,Acessórios,Nordeste
+2025-11-16,Loja Curitiba,Webcam,2.0,236.73,Eletrônicos,Sul
+2025-12-15,Loja BH,Mouse,9.0,86.14,Acessórios,Sudeste
+2025-11-24,Loja BH,Teclado,10.0,148.26,Acessórios,Sudeste
+2025-09-24,Loja Salvador,Mouse,9.0,77.29,Acessórios,Nordeste
+2025-12-27,Loja Salvador,Webcam,10.0,247.44,Eletrônicos,Nordeste
+2025-08-17,Loja Brasília,Webcam,10.0,258.47,Eletrônicos,Centro-Oeste
+2025-09-27,Loja Brasília,Mouse,7.0,74.33,Acessórios,Centro-Oeste
+2025-11-12,Loja Curitiba,Notebook,1.0,3464.6,Eletrônicos,Sul
+2025-10-13,Loja Salvador,Monitor,7.0,915.82,Eletrônicos,Nordeste
+2025-10-18,Loja BH,Cadeira,10.0,1307.66,Móveis,Sudeste
+2025-08-01,Loja Brasília,Notebook,5.0,3326.77,Eletrônicos,Centro-Oeste
+2025-06-14,Loja Brasília,Notebook,6.0,3401.48,Eletrônicos,Centro-Oeste
+2025-01-05,Loja BH,Headset,10.0,214.69,Acessórios,Sudeste
+2025-12-05,Loja Brasília,Cadeira,7.0,1225.33,Móveis,Centro-Oeste
+2025-03-19,Loja Curitiba,Cadeira,5.0,1165.62,Móveis,Sul
+2025-03-03,Loja Salvador,Notebook,7.0,3523.46,Eletrônicos,Nordeste
+2025-05-12,Loja BH,Teclado,9.0,158.45,Acessórios,Sudeste
+2025-03-30,Loja Salvador,Headset,3.0,229.04,Acessórios,Nordeste
+2025-08-25,Loja Brasília,Headset,8.0,217.64,Acessórios,Centro-Oeste
+2025-02-11,Loja Brasília,Webcam,2.0,268.21,Eletrônicos,Centro-Oeste
+2025-03-30,Loja BH,Mesa,7.0,708.14,Móveis,Sudeste
+2025-10-23,Loja Curitiba,Cadeira,2.0,1209.58,Móveis,Sul
+2025-11-24,Loja São Paulo,Notebook,4.0,3173.93,Eletrônicos,Sudeste
+2025-10-22,Loja BH,Webcam,7.0,274.33,Eletrônicos,Sudeste
+2025-04-14,Loja São Paulo,Mouse,3.0,73.97,Acessórios,Sudeste
+2025-01-14,Loja São Paulo,Monitor,2.0,851.6,Eletrônicos,Sudeste
+2025-10-15,Loja Curitiba,Mesa,10.0,637.24,Móveis,Sul
+2025-06-28,Loja São Paulo,Mesa,7.0,719.6,Móveis,Sudeste
+2025-05-05,Loja São Paulo,Mesa,1.0,661.46,Móveis,Sudeste
+2025-12-19,Loja Curitiba,Headset,8.0,,Acessórios,Sul
+2025-01-23,Loja São Paulo,Mouse,3.0,73.42,Acessórios,Sudeste
+2025-03-04,Loja São Paulo,Mesa,2.0,644.46,Móveis,Sudeste
+2025-05-23,Loja São Paulo,Mouse,3.0,81.35,Acessórios,Sudeste
+2025-06-02,Loja BH,Teclado,5.0,155.65,Acessórios,Sudeste
+2025-05-25,Loja BH,Mesa,8.0,685.63,Móveis,Sudeste
+2025-08-13,Loja BH,Monitor,10.0,896.38,Eletrônicos,Sudeste
+2025-11-05,Loja Curitiba,Mouse,7.0,82.98,Acessórios,Sul
+2025-04-14,Loja Brasília,Mouse,7.0,72.28,Acessórios,Centro-Oeste
+2025-04-14,Loja São Paulo,Monitor,7.0,868.16,Eletrônicos,Sudeste
+2025-02-08,Loja São Paulo,Mesa,8.0,766.23,Móveis,Sudeste
+2025-07-17,Loja Curitiba,Monitor,1.0,914.42,Eletrônicos,Sul
+2025-05-14,Loja São Paulo,Mouse,4.0,76.07,Acessórios,Sudeste
+2025-03-08,Loja BH,Monitor,6.0,903.91,Eletrônicos,Sudeste
+2025-06-28,Loja Brasília,Mouse,9.0,77.48,Acessórios,Centro-Oeste
+2025-02-11,Loja Salvador,Mouse,2.0,80.52,Acessórios,Nordeste
+2025-01-15,Loja São Paulo,Teclado,1.0,138.77,Acessórios,Sudeste
+2025-04-21,Loja BH,Notebook,10.0,3242.9,Eletrônicos,Sudeste
+2025-06-06,Loja Salvador,Mouse,2.0,74.3,Acessórios,Nordeste
+2025-10-16,Loja Brasília,Mesa,7.0,761.57,Móveis,Centro-Oeste
+2025-08-19,Loja Salvador,Webcam,3.0,261.64,Eletrônicos,Nordeste
+2025-06-06,Loja BH,Headset,10.0,205.14,Acessórios,Sudeste
+2025-02-07,Loja Salvador,Cadeira,2.0,1125.2,Móveis,Nordeste
+2025-04-07,Loja Curitiba,Notebook,7.0,3661.58,Eletrônicos,Sul
+2025-10-16,Loja Salvador,Notebook,2.0,3259.31,Eletrônicos,Nordeste
+2025-09-11,Loja São Paulo,Notebook,3.0,3314.19,Eletrônicos,Sudeste
+2025-07-15,Loja São Paulo,Teclado,7.0,163.9,Acessórios,Sudeste
+2025-03-27,Loja Curitiba,Mouse,4.0,76.08,Acessórios,Sul
+2025-11-18,Loja BH,Teclado,1.0,154.85,Acessórios,Sudeste
+2025-01-10,Loja São Paulo,Mouse,5.0,87.66,Acessórios,Sudeste
+2025-01-05,Loja Brasília,Mesa,9.0,682.4,Móveis,Centro-Oeste
+2025-05-03,Loja São Paulo,Teclado,8.0,135.53,Acessórios,Sudeste
+2025-11-26,Loja São Paulo,Teclado,9.0,142.32,Acessórios,Sudeste
+2025-12-19,Loja BH,Headset,10.0,234.56,Acessórios,Sudeste
+2025-04-28,Loja Salvador,Webcam,9.0,268.23,Eletrônicos,Nordeste
+2025-10-21,Loja São Paulo,Teclado,,158.06,Acessórios,Sudeste
+2025-06-08,Loja Curitiba,Headset,4.0,202.98,Acessórios,Sul
+2025-10-30,Loja Salvador,Monitor,5.0,953.19,Eletrônicos,Nordeste
+2025-08-16,Loja Brasília,Webcam,1.0,270.93,Eletrônicos,Centro-Oeste
+2025-12-31,Loja BH,Mesa,1.0,714.09,Móveis,Sudeste
+2025-08-04,Loja Brasília,Teclado,3.0,163.23,Acessórios,Centro-Oeste
+2025-07-03,Loja Salvador,Cadeira,8.0,1278.44,Móveis,Nordeste
+2025-01-15,Loja Salvador,Notebook,2.0,3616.88,Eletrônicos,Nordeste
+2025-06-06,Loja Salvador,Monitor,4.0,913.89,Eletrônicos,Nordeste
+2025-05-16,Loja Brasília,Monitor,2.0,872.74,Eletrônicos,Centro-Oeste
+2025-09-18,Loja Salvador,Mesa,5.0,652.3,Móveis,Nordeste
+2025-06-06,Loja Brasília,Headset,9.0,224.62,Acessórios,Centro-Oeste
+2025-02-16,Loja Salvador,Monitor,,867.26,Eletrônicos,Nordeste
+2025-11-20,Loja Curitiba,Webcam,5.0,268.32,Eletrônicos,Sul
+2025-11-28,Loja Salvador,Teclado,9.0,164.8,Acessórios,Nordeste
+2025-06-22,Loja Brasília,Teclado,1.0,157.57,Acessórios,Centro-Oeste
+2025-05-10,Loja São Paulo,Cadeira,9.0,1101.72,Móveis,Sudeste
+2025-04-05,Loja Salvador,Mesa,8.0,670.42,Móveis,Nordeste
+2025-04-25,Loja São Paulo,Notebook,4.0,3226.38,Eletrônicos,Sudeste
+2025-08-31,Loja Curitiba,Headset,10.0,226.62,Acessórios,Sul
+2025-10-19,Loja BH,Notebook,5.0,3685.63,Eletrônicos,Sudeste
+2025-10-09,Loja Curitiba,Monitor,5.0,976.62,Eletrônicos,Sul
+2025-10-26,Loja Salvador,Mesa,6.0,691.34,Móveis,Nordeste
+2025-10-10,Loja São Paulo,Cadeira,7.0,1296.33,Móveis,Sudeste
+2025-03-10,Loja São Paulo,Notebook,8.0,3764.52,Eletrônicos,Sudeste
+2025-05-28,Loja Brasília,Webcam,8.0,240.86,Eletrônicos,Centro-Oeste
+2025-01-11,Loja São Paulo,Teclado,2.0,161.07,Acessórios,Sudeste
+2025-09-11,Loja Brasília,Monitor,9.0,877.62,Eletrônicos,Centro-Oeste
+2025-11-26,Loja BH,Cadeira,7.0,1151.25,Móveis,Sudeste
+2025-12-26,Loja Salvador,Notebook,4.0,3604.35,Eletrônicos,Nordeste
+2025-02-07,Loja Brasília,Headset,4.0,212.45,Acessórios,Centro-Oeste
+2025-05-14,Loja BH,Webcam,8.0,256.51,Eletrônicos,Sudeste
+2025-07-19,Loja São Paulo,Webcam,4.0,255.49,Eletrônicos,Sudeste
+2025-01-23,Loja São Paulo,Notebook,6.0,3544.41,Eletrônicos,Sudeste
+2025-10-30,Loja BH,Teclado,5.0,,Acessórios,Sudeste
+2025-12-12,Loja São Paulo,Notebook,3.0,3533.95,Eletrônicos,Sudeste
+2025-10-29,Loja BH,Monitor,10.0,917.37,Eletrônicos,Sudeste
+2025-12-29,Loja Brasília,Notebook,2.0,3531.98,Eletrônicos,Centro-Oeste
+2025-08-06,Loja Brasília,Webcam,9.0,,Eletrônicos,Centro-Oeste
+2025-05-21,Loja BH,Cadeira,10.0,1083.52,Móveis,Sudeste
+2025-04-14,Loja Brasília,Notebook,9.0,3560.94,Eletrônicos,Centro-Oeste
+2025-07-29,Loja Brasília,Teclado,1.0,140.05,Acessórios,Centro-Oeste
+2025-04-21,Loja Brasília,Mesa,10.0,719.96,Móveis,Centro-Oeste
+2025-04-14,Loja Curitiba,Cadeira,3.0,1262.24,Móveis,Sul
+2025-11-12,Loja Salvador,Headset,8.0,220.02,Acessórios,Nordeste
+2025-06-20,Loja São Paulo,Mouse,6.0,80.68,Acessórios,Sudeste
